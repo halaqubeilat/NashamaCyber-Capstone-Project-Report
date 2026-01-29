@@ -7,3 +7,6 @@ The project focuses on vulnerability analysis, exploitation, and mitigation of t
 2-CVE-2023-4911 — Looney Tunables (glibc)
 
 The project includes building vulnerable lab environments, demonstrating exploitation, applying fixes, and verifying mitigation through logging and validation techniques.
+
+#Author
+Hala Qubeilat
