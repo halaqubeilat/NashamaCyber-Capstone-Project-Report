@@ -1,4 +1,4 @@
-# Nashama V9 Capstone Project Report
+# Nashama Cyber V9 Capstone Project 
 This repository contains my capstone project developed during Nashama Cyber Bootcamp V9.
 The project focuses on vulnerability analysis, exploitation, and mitigation of two critical Linux vulnerabilities:
 
